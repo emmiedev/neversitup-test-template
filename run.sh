@@ -1,0 +1,1 @@
+cd javascript && npm install && npm test
