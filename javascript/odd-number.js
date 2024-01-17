@@ -5,6 +5,11 @@
  */
 const findOddNumber = (text) => {
     // TODO : start your code here
+    let result = 0
+    for (let i = 0; i < text.length; i++) {
+        result = result ^ text[i]
+    }
+    return result
 }
 
 

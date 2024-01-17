@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1705496958306" clover="3.2.0">
-  <project timestamp="1705496958306" name="All files">
-    <metrics statements="23" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3" elements="32" coveredelements="32" complexity="0" loc="23" ncloc="23" packages="1" files="1" classes="1"/>
+<coverage generated="1705497348295" clover="3.2.0">
+  <project timestamp="1705497348295" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4" elements="39" coveredelements="39" complexity="0" loc="29" ncloc="29" packages="1" files="2" classes="2"/>
     <file name="manipulate.js" path="/mnt/sda/exam/neversitup-test-template/javascript/manipulate.js">
       <metrics statements="23" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
       <line num="7" count="1" type="stmt"/>
@@ -27,6 +27,15 @@
       <line num="38" count="15" type="stmt"/>
       <line num="42" count="4" type="stmt"/>
       <line num="46" count="1" type="stmt"/>
+    </file>
+    <file name="odd-number.js" path="/mnt/sda/exam/neversitup-test-template/javascript/odd-number.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="10" count="23" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
