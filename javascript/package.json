@@ -1,0 +1,14 @@
+{
+  "name": "m-test-neversitup",
+  "version": "1.0.0",
+  "description": "Javascript",
+  "main": "run.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+    },
+  "author": "Tawatchai Insree",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
