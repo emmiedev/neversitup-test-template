@@ -8,10 +8,10 @@ export class FindOddIntController {
 
     @Post()
     findOddInt(@Body() bodyData: inputNumber): number {        
-        if (bodyData.number.length === 0) {
+        if (bodyData.numberList.length === 0) {
             return 0;
         }
-        return this.findOddService.findOddInt(bodyData.number);
+        return this.findOddService.findOddInt(bodyData.numberList);
     }
 
 }
