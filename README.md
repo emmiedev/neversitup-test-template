@@ -67,10 +67,10 @@
 ```
 
 ## Install package
-1. open `neversitup-test-template` and go to dir. `javascript`
+1. open `neversitup-test-template` and go to dir. `nest-testing`
 
 ```
-cd javascript
+cd nest-testing
 ```
 
 2. install package with npm
@@ -87,7 +87,7 @@ To run tests, run the following command
    npm run test
 ```
 
-## OR install package and run test
+## OR install package and run with docker
 
 ```
  sh run.sh
