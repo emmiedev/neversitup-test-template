@@ -92,3 +92,8 @@ To run tests, run the following command
 ```
  sh run.sh
 ```
+
+### OR
+```
+ sudo chmod +x run.sh && ./run.sh
+```
